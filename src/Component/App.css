@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+    ul{
+    background-color: orangered;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.home-space{
+   display: inline-block;
+    list-style-type: none;
+    padding-left: 200px;
+   
+
+}
+.about-space{
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 500px;
+}
+.student-space{
+    display: inline-block;
+    list-style-type: none; 
+    padding-left: 500px;
+}
+h1{
+    color: red;
+    text-align: center;
+    cursor: pointer;
+    padding: 30px;
+}
